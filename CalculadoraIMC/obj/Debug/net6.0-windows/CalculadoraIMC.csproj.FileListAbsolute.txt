@@ -1,0 +1,17 @@
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.exe
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.deps.json
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.runtimeconfig.json
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.dll
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.pdb
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.csproj.AssemblyReference.cache
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.FormPrincipal.resources
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.csproj.GenerateResource.cache
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.AssemblyInfoInputs.cache
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.AssemblyInfo.cs
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.csproj.CoreCompileInputs.cache
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.dll
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\refint\CalculadoraIMC.dll
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.pdb
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.genruntimeconfig.cache
+F:\Atividade 07\ProjetoIMC\CalculadoraIMC\obj\Debug\net6.0-windows\ref\CalculadoraIMC.dll
